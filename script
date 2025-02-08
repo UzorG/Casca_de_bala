@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chicken-csc src/main.scm -o output
+./output
